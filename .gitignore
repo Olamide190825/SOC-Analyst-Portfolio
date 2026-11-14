@@ -1,0 +1,30 @@
+﻿# Python temporary files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Raw network captures - do not upload private traffic
+*.pcap
+*.pcapng
+
+# Temporary and system files
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
