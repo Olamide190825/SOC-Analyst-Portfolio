@@ -21,7 +21,7 @@ This repository documents my hands-on cybersecurity projects, including the tool
 
 | Project | Description | Status |
 |---|---|---|
-| Project 01: Network Traffic Analysis | Analysing network traffic using Python and Wireshark | In progress |
+| Project 01: Network Traffic Analysis | Analysing a simulated 15-record network traffic dataset using Python | Completed |
 | Project 02: Brute-Force Detection | Identifying suspicious authentication attempts from log data | In progress |
 | Project 03: Phishing Email Investigation | Examining suspicious emails and identifying phishing indicators | Planned |
 | Project 04: SIEM Log Monitoring | Monitoring and investigating security events using SIEM concepts and tools | Planned |
@@ -30,7 +30,6 @@ This repository documents my hands-on cybersecurity projects, including the tool
 ## Tools and Technologies
 
 - Python
-- Wireshark
 - Windows PowerShell
 - Git and GitHub
 - Linux fundamentals
