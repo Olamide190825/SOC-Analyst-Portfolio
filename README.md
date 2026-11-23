@@ -1,4 +1,4 @@
-﻿# SOC Analyst Portfolio
+# SOC Analyst Portfolio
 
 Welcome to my Cybersecurity Portfolio.
 
@@ -23,7 +23,7 @@ This repository documents my hands-on cybersecurity projects, including the tool
 |---|---|---|
 | Project 01: Network Traffic Analysis | Analysing network traffic using Python and Wireshark | Completed |
 | Project 02: Brute-Force Detection | Identifying suspicious authentication attempts from log data using Python | Completed |
-| Project 03: Phishing Email Investigation | Examining suspicious emails and identifying phishing indicators | Planned |
+| Project 03: Phishing Email Investigation | Examining suspicious emails and identifying phishing indicators | Completed |
 | Project 04: SIEM Log Monitoring | Monitoring and investigating security events using SIEM concepts and tools | Planned |
 | Project 05: Incident Response | Documenting investigation, containment, and response procedures | Planned |
 

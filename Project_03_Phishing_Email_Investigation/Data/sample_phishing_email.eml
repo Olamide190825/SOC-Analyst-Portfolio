@@ -1,0 +1,23 @@
+From: IT Support <support@company.example>
+To: employee@company.example
+Date: Mon, 23 Nov 2026 08:30:00 +0100
+Subject: Urgent: Your Mailbox Will Be Disabled
+Reply-To: helpdesk@external-mail.example
+Return-Path: <bounce@external-mail.example>
+Authentication-Results: mail.company.example; spf=fail; dkim=none; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Dear Employee,
+
+Your mailbox storage has reached its limit. Your account will be disabled
+today unless you verify your mailbox immediately.
+
+Please use the link below to confirm your account:
+
+http://mailbox-check.example/verify
+
+Failure to complete this action may result in loss of email access.
+
+Regards,
+IT Support Team
