@@ -21,8 +21,8 @@ This repository documents my hands-on cybersecurity projects, including the tool
 
 | Project | Description | Status |
 |---|---|---|
-| Project 01: Network Traffic Analysis | Analysing a simulated 15-record network traffic dataset using Python | Completed |
-| Project 02: Brute-Force Detection | Identifying suspicious authentication attempts from log data | In progress |
+| Project 01: Network Traffic Analysis | Analysing network traffic using Python and Wireshark | Completed |
+| Project 02: Brute-Force Detection | Identifying suspicious authentication attempts from log data using Python | Completed |
 | Project 03: Phishing Email Investigation | Examining suspicious emails and identifying phishing indicators | Planned |
 | Project 04: SIEM Log Monitoring | Monitoring and investigating security events using SIEM concepts and tools | Planned |
 | Project 05: Incident Response | Documenting investigation, containment, and response procedures | Planned |
@@ -30,6 +30,7 @@ This repository documents my hands-on cybersecurity projects, including the tool
 ## Tools and Technologies
 
 - Python
+- Wireshark
 - Windows PowerShell
 - Git and GitHub
 - Linux fundamentals
@@ -37,7 +38,7 @@ This repository documents my hands-on cybersecurity projects, including the tool
 
 ## Project Structure
 
-Each project will include relevant scripts, sample data, evidence, investigation reports, and documentation.
+Each project includes relevant scripts, sample data, evidence, investigation reports, and documentation.
 
 ## Important Note
 
@@ -45,7 +46,7 @@ These projects are developed in a controlled learning environment using authoris
 
 ## Career Objective
 
-I am seeking an entry-level SOC Analyst or Cybersecurity Internship opportunity where I can apply my developing technical skills, contribute to security monitoring and incident investigation, and continue growing in cybersecurity.
+I am seeking an entry-level SOC Analyst or Cybersecurity Internship opportunity where I can apply my technical skills, contribute to security monitoring and incident investigation, and continue growing in cybersecurity.
 
 ---
 *This portfolio is actively being developed and updated as I complete each project.*
